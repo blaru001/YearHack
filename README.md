@@ -16,7 +16,7 @@ To better round your skills consider the following optional restrictions
 * two object orientated languages
 * two assembly languages 
 * two IDE or editor plugin languages 
-###Topics and technologies 
+### Topics and technologies 
 * Os Design 
 * web development
 * mobile development
